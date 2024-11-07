@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Olá eu sou o Bruno Dutra 🤙
 Apaixonado por tecnologia, programação, filmes e jogos. 
 Estou em transição de carreira para Full-stack, no momento encantado pelo Front-end. Cresci trabalhando na área de vendas e gestão de lojas em shoppings centers e hoje gerencio uma Barbearia na região do Tatuapé. 
