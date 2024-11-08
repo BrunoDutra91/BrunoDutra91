@@ -1,5 +1,6 @@
 ## Olá eu sou o Bruno Dutra 🤙
- Estou em transição de carreira para Full-stack, no momento encantado pelo mundo do Front-end. Cresci trabalhando na área de vendas e gestão de lojas em shoppings centers e hoje gerencio uma Barbearia na região do Tatuapé. 
+Estou em transição de carreira para Full-stack, no momento encantado pelo mundo do Front-end. 
+Cresci trabalhando na área de vendas e gestão de lojas em shoppings centers e hoje gerencio uma Barbearia na região do Tatuapé. 
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno.dutra91)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dutra-9b3582120/)
