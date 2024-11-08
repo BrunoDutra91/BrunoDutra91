@@ -1,6 +1,7 @@
 ## Olá eu sou o Bruno Dutra 🤙
 Apaixonado por tecnologia, programação, filmes e jogos. 
 Estou em transição de carreira para Full-stack, no momento encantado pelo Front-end. 
+
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno.dutra91)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dutra-9b3582120/)
 
