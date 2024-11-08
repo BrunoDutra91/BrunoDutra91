@@ -8,7 +8,7 @@ Estou em transição de carreira para Full-stack, no momento encantado pelo Fron
 
 
 ![Bruno Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoDutra91&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDutra91&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDutra91&layout=donut)](https://github.com/BrunoDutra91/github-readme-stats)
 
 ## Tecnologias que uso nos meus projetos.
 
