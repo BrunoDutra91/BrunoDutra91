@@ -8,8 +8,9 @@
 
 #
 
-<p align="center"> Estudante de Gestão da tecnologia da informação na escola Eniac e Programação na escola MFX. Atualmente trabalho no gerenciamento 
-de uma barbearia na região do Tatuapé e estou em transição de carreira para a área de programação. 
+<p align="center"> Estudante de Gestão da tecnologia da informação na escola Eniac e Programação na escola MFX. 
+Atualmente trabalho no gerenciamento de uma Barbearia na região do Tatuapé 
+e estou em transição de carreira para a área de programação. 
   
 #
 
