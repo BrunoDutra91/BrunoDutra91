@@ -8,7 +8,7 @@
 
 #
 
-<p align="center"> Estudante de Gestão da tecnologia da informação na escola Eniac e Programação na escola MFX. 
+<p align="center"> Estudante de Gestão da tecnologia da informação na escola Eniac e Full-Stack na escola MFX. 
 Atualmente trabalho no gerenciamento de uma Barbearia na região do Tatuapé 
 e estou em transição de carreira para a área de programação. 
   
