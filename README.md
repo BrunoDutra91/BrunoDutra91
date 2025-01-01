@@ -8,9 +8,7 @@
 
 #
 
-<p align="center"> Estudante de Gestão da tecnologia da informação na escola Eniac e Full-Stack na escola MFX. 
-Atualmente trabalho no gerenciamento de uma Barbearia na região do Tatuapé 
-e estou em transição de carreira para a área de programação. 
+<p align="center"> "Sou Bruno Dutra, atualmente no 4º semestre de Gestão da Tecnologia da Informação, onde descobri minha paixão por programação na resolução de problemas. Estudo desenvolvimento full-stack na escola MFX, desenvolvendo habilidades para atuar tanto no front-end quanto no back-end . Possuo ampla experiência em gestão, liderando equipes e implementando estratégias de sucesso, enquanto busco por uma oportunidade para ingressar no mercado de tecnologia e colocar em prática meu conhecimento.
   
 #
 
