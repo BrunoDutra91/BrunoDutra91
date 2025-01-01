@@ -59,6 +59,11 @@
   </a>
 </div>
 
+<div align="center">
+ 
+<img src="https://github.com/BrunoDutra91/BrunoDutra91/blob/output/github-snake-dark.svg" width="250%">
+
+</div>
 
 #
 
